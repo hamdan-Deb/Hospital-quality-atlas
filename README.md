@@ -7,6 +7,16 @@
 
 ### Being a student of Epidemiology and Public Health, I have made a lightweight web interface that transforms hospital datasets into an interactive dashboard. It tracks 5,419 Medicare-certified hospitals across all 50 U.S. states, Washington D.C., and U.S. territories.
 
+
+<div>
+<p align="center">
+  <a href="https://hamdan-deb.github.io/Hospital-quality-atlas/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20Live%20Website-%F0%9F%91%89%20Click%20Here-blueviolet?style=for-the-badge&logo=github" alt="Visit Live Website">
+  </a>
+</p>
+</div>
+
+
 ---
 
 ## What Is This Project About?
