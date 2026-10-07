@@ -121,3 +121,9 @@ If running locally from your computer, download `index.html` and `Hospital_Gener
 * **Typography**: Space Grotesk and IBM Plex Mono.
 * **Dependencies**: None (Zero build steps, zero npm packages).
 * **Compliance**: Conforms to the Public CMS Hospital Downloadable Database Data Dictionary (July 2026 Release).
+
+
+### Disclaimer
+
+> ⚠️ **Important:** Please read our [Project Disclaimer](DISCLAIMER.md) before using this dashboard.
+
