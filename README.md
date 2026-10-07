@@ -1,11 +1,11 @@
-# Care Atlas: CMS Provider-Data Observatory
+# Independent CMS Provider-Data Observatory
 
 ![CMS Data](https://img.shields.io/badge/CMS-July_2026_Spec-blue)
-![Covers](https://img.shields.io/badge/Hospitals-5%2C419_Records-green)
+<!--  ![Covers](https://img.shields.io/badge/Hospitals-5%2C419_Records-green)
 ![Jurisdictions](https://img.shields.io/badge/Covers-50_States_%2B_DC_%2B_Territories-orange)
-![License](https://img.shields.io/badge/Data_License-Public_Domain_(U.S._Gov)-lightgrey)
+![License](https://img.shields.io/badge/Data_License-Public_Domain_(U.S._Gov)-lightgrey) -->
 
-### Being a student of Epidemiology and Public Health, I have made a lightweight web interface that transforms hospital datasets into an interactive dashboard. It tracks 5,419 Medicare-certified hospitals across all 50 U.S. states, Washington D.C., and U.S. territories.
+### Being a student of Epidemiology and Public Health, I have made a lightweight web interface that transforms hospital datasets into an interactive dashboard. It tracks few Medicare-certified hospitals across all 50 U.S. states, Washington D.C., and U.S. territories.
 
 
 <div>
